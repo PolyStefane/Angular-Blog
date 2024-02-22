@@ -1,0 +1,40 @@
+.container__content{
+
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    margin-top: 20px;
+
+}
+
+.container__content > a{
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+}
+
+.content__title{
+    margin-top: 15px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.content__cover > img{
+    width: 500px;
+    height: 300px;
+    min-width: 500px;
+
+    border-radius: 6px;
+    border: 3px solid rgb(190, 188, 188);
+}
+.content__description > p{
+    color: rgb(177, 173, 173);
+    margin-top: 15px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 20px;
+}

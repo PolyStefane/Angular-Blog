@@ -1,0 +1,10 @@
+@media screen and (max-width: 550px){
+    .content__cover img{
+      margin-top: 20px;
+      width: 300px;
+    }
+    .content__title{
+      font-size: 12px;
+    }
+  }
+  
